@@ -6,3 +6,32 @@
    display:block;
    font-size:20px;
 }
+
+table {
+
+background:black;
+
+}
+
+thead {
+
+background: #555555;
+
+color: white;
+
+font-weight: bold;
+
+}
+td {
+
+border: 1px solid #000000;
+
+border-color: cor;
+
+}
+
+td, th {
+
+border: 1px solid #000000;
+
+border-color: cor;
