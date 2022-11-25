@@ -17,6 +17,16 @@ border-color: cor;
 
 thead{
   background: #555555;
- color: green;
+ color: white;
  font-weight:bold:;
+}
+
+table tr{
+  background-color: darkturquiose;
+}
+
+table tr td{
+ bolder: 2px solid;
+ bolder-color:orange;
+ font-size: 24px;
 }
